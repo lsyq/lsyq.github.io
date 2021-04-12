@@ -28,12 +28,12 @@
 ## 柳市论坛
 　　浙江省乐清市南部区域网络论坛，域名：liushi.org，由ThingAu创建于2002年12月，曾为乐清南部最活跃的网络社区，后因中国大陆地区网络监管趋严，于2009年关闭，其中2006-2009年期间处于半关闭状态。2021年4月使用GitHub Pages重构于GitHub。
 
-By Shengou Zheng
-
-### 参考资料文献：
+#### 参考资料文献：
 - 作者2003-2005年发布于liushi.org的相关文章；
 - 乐清市政府网站相关数据资料；
 - 乐清县志；
 - 柳市镇志
+
+By Shengou Zheng
 
 ##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议，且应注明所有原作者。
