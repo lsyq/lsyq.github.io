@@ -30,9 +30,10 @@
 
 By Shengou Zheng
 
-参考文献资料：
+### 参考资料文献：
 - 作者2003-2005年发布于liushi.org的相关文章；
 - 乐清市政府网站相关数据资料；
 - 乐清县志；
 - 柳市镇志
+
 ##### 遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议，且应注明所有原作者。
